@@ -1,0 +1,5 @@
+[30-Dec-2023 05:02:54 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[30-Dec-2023 05:02:54 UTC] PHP Fatal error:  Failed opening required '/private/var/folders/p3/h0c_jqt50b92k8dl_vvvbxmr0000gn/T/AppTranslocation/83D961E1-D1D2-452E-98D7-2C53C82C3EE7/d/Local.app/Contents/Resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[30-Dec-2023 05:02:55 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[30-Dec-2023 05:02:55 UTC] PHP Fatal error:  Failed opening required '/private/var/folders/p3/h0c_jqt50b92k8dl_vvvbxmr0000gn/T/AppTranslocation/83D961E1-D1D2-452E-98D7-2C53C82C3EE7/d/Local.app/Contents/Resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[01-Jan-2024 03:31:34 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
